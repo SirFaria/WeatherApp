@@ -1,4 +1,4 @@
 # WeatherApp
-Um app para conferir o clima e a temperatura do local escolhido.
+An app to check the weather and temperature of the chosen location.
 <br>
 https://sirfaria.github.io/WeatherApp/
